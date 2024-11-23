@@ -30,4 +30,39 @@ High (H)
 The task requires a model that predicts both the target and the severity labels for each given text sample.
 # Approach
 We solved the problem by using the machine learning algorithms for the task A we use Logestic regression and for the task B we used Random Forest
+# Requirements
+
+To run the code in this repository, you need the following Python libraries:
+
+- numpy
+- pandas
+- torch
+- transformers
+- sklearn
+- matplotlib
+- seaborn
+
+You can install all required dependencies by running:
+
+bash
+pip install -r requirements.txt
+
+
+# Citation
+
+bibtex
+@article{biradar2024faux,
+  title={Faux Hate: Unravelling the Web of Fake Narratives in Spreading Hateful Stories: 
+         A Multi-Label and Multi-Class Dataset in Cross-Lingual Hindi-English Code-Mixed Text},
+  author={Biradar, Shankar and Saumya, Sunil and Chauhan, Arun},
+  journal={Language Resources and Evaluation},
+  pages={1--32},
+  year={2024},
+  publisher={Springer}
+}
+
+# Acknowledgements
+- The ICON 2024 organizers for hosting this shared task.
+- Hugging Face for providing powerful transformer-based models.
+- The open-source community for providing tools and libraries that facilitated our work.
 
