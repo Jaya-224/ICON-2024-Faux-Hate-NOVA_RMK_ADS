@@ -1,5 +1,5 @@
 # ICON-2024-Faux-Hate-NOVA_RMK_ADS
-#overview
+**# overview**
 The Faux-Hate shared task is designed to challenge participants to tackle both fake and hate detection in social media comments, with additional emphasis on identifying the target and severity of hateful speech.
 #Key Concepts
 Fake: Misinformation deliberately spread with the intention to mislead.
